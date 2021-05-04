@@ -9,7 +9,7 @@ IN this program you need 2 digit of 7 segment displays
 2. Topview Simulator
 
 
-How the program will be run :
+# How the program will be run :
 The program run will start from the first digit and it will increase from 0 - 9. After it reach 9 and it will give the result 1 numeric for the second digit. For digit 1 will do increase again 0 - 9 and after that it will give an result numeric form for the second digit and so go on until it goes reset.
 
 
